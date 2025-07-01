@@ -8,6 +8,9 @@ This notebook demonstrates how to use the `pipeline` API from Hugging Face's `tr
 - **Text Generation** (GPT-2 and Spanish GPT-2)
 - **Masked Word Prediction** (RoBERTa)
 - **Named Entity Recognition (NER)**
+- **Question answering**
+- **Summarization**
+- **Translation**
 
 ## Technologies Used
 
